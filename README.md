@@ -7,10 +7,11 @@ YT:/ https://www.youtube.com/@deadasfboi
 ---------------------------------------------------------------------
 Tutorial
 1. Extract zip folder into any Directory you desire.
-2. In Directory, cut or copy & paste Microphone Status - Shortcut into Desktop
-3. Double click the shortcut to open.
-4. Now in OBS, create a new source to capture the window showing a picture.
-5. Default keys are K, and L. (reason behind this is because I use those keys to Mute&Unmute)
+2. OPEN THE PYTHON FILE IN NOTEPAD, CHANGE THE LOCATION OF PICTURES YOU WANT. (Command line: image 1 and 2)
+3. In Directory, cut or copy & paste Microphone Status - Shortcut into Desktop
+4. Double click the shortcut to open.
+5. Now in OBS, create a new source to capture the window showing a picture.
+6. Default keys are K, and L. (reason behind this is because I use those keys to Mute&Unmute)
 (Doesn't matter which key you press, they both are just meant to change the picture while at the same time
 muting and unmuting microphone)
 -----------------------------------------------------------------------
