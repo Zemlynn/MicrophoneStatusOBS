@@ -11,8 +11,8 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption('Microphone Status')
 
 # Load images
-image1 = pygame.image.load(r'D:\BACKUP-Zem\Icons-1.0\ff6a.png')
-image2 = pygame.image.load(r'D:\BACKUP-Zem\Icons-1.0\ff6321321321a.png')
+image1 = pygame.image.load(r'LOCATIONofYourPictures')
+image2 = pygame.image.load(r'LOCATIONofYourPictures')
 
 # Scale images to fit the screen if necessary
 image1 = pygame.transform.scale(image1, (screen_width, screen_height))
